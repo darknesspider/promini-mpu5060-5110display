@@ -7,4 +7,4 @@ Danger!!
 two white cable
 3v and data in
 
-be carefu
+be careful
